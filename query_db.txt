@@ -1,0 +1,11 @@
+CREATE DATABASE Store;
+GO
+
+USE Store;
+GO
+
+CREATE TABLE Products (ID INT PRIMARY KEY IDENTITY, ProductName VARCHAR(50), Price FLOAT);
+GO
+
+SELECT * FROM Products;
+GO
