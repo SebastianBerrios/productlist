@@ -70,11 +70,11 @@ Este proyecto consiste en dos partes: una API RESTFUL creada con .NET Core para 
 
 #### Backend
 
-    Para más detalles sobre cómo configurar y ejecutar el backend, consulte el archivo [README.md del Backend](backend/README.md).
+Para más detalles sobre cómo configurar y ejecutar el backend, consulte el archivo [README.md del Backend](/backend/README.md).
 
 #### Frontend
 
-    Para más detalles sobre cómo configurar y ejecutar el frontend, consulte el archivo [README.md del Frontend](/frontend/README.md).
+Para más detalles sobre cómo configurar y ejecutar el frontend, consulte el archivo [README.md del Frontend](/frontend/README.md).
 
 ### Instrucciones
 
